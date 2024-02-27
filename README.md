@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/53900/121775784-0191d200-cbcd-11eb-83dd-adc001b94519.png)
 
-# Pact Go
+# Pact Jo
 
 [![Test](https://github.com/pact-foundation/pact-go/actions/workflows/test.yml/badge.svg?branch=2.x.x)](https://github.com/pact-foundation/pact-go/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/pact-foundation/pact-go/badge.svg?branch=HEAD)](https://coveralls.io/github/pact-foundation/pact-go?branch=HEAD)
